@@ -1,11 +1,11 @@
 <div style="max-width: 680px; margin: 20px auto; padding: 30px; border: 1px solid #e0e0e0; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #333333;">
 
     <p style="margin-top: 0; margin-bottom: 25px;">
-        Merhaba [Müşteri Adı],
+        Merhabalar,
     </p>
 
     <p style="margin-bottom: 20px;">
-        Teknik entegrasyon süreçlerinizi birlikte değerlendirmek ve gerekli adımları tamamlamak adına sizin için <strong>[Tarih, Örn: 24 Nisan]</strong> tarihinde, saat <strong>[Saat]</strong> için bir teknik görüşme randevusu oluşturdum. Toplantı daveti ve katılım bağlantısı takviminize iletilmiştir.
+        Teknik entegrasyon süreçlerinizi birlikte değerlendirmek ve gerekli adımları tamamlamak adına sizin için <strong>[Tarih, 24 Nisan]</strong> tarihinde, TR saatiyle <strong>[Saat]</strong> için bir teknik görüşme randevusu oluşturdum. Toplantı daveti ve katılım bağlantısı takviminize iletilmiştir.
     </p>
 
     <p style="margin-bottom: 30px;">

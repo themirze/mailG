@@ -9,7 +9,7 @@
     </p>
 
     <p style="margin-bottom: 25px;">
-        Ajandamı kontrol ettiğimde, programlarımız arasındaki <strong>2 saatlik (Polonya - Türkiye)</strong> zaman farkını da dikkate alarak, benim için en uygun başlangıç saatinin <strong>Türkiye saati ile (TSI) 12:00</strong> olduğunu görüyorum.
+        Ajandamı kontrol ettiğimde, programlarımız arasındaki <strong>2 saatlik (Polonya - Türkiye)</strong> zaman farkını da dikkate alarak, benim için en uygun başlangıç saatinin <strong>Türkiye saati ile (TSI) 11:00</strong> olduğunu görüyorum.
     </p>
 
     <div style="background-color: #e8f0fe; border-left: 4px solid #1a73e8; padding: 15px 20px; margin-top: 25px; margin-bottom: 25px; font-size: 15px; line-height: 1.6;">
